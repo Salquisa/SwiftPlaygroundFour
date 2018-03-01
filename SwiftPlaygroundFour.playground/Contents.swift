@@ -25,3 +25,18 @@ while i <= 10
     //we want to add +1 to i for each ineration through the loop
     i=i+1
 }
+
+//Coding Challenge #1
+
+var counter = 1
+
+while true {
+    print("This is loop \(counter)")
+    counter += 1
+    
+    if counter == 4 {
+        break
+    }
+}
+
+
