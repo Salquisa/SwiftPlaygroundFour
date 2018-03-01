@@ -41,4 +41,10 @@ while true {
 
 //Coding Challenge #2
 
-
+var newSum = 10
+for number in 1...10 {
+    
+    newSum -= 1;
+    
+    print(newSum)
+}
